@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">telas</string>
+    <string name="todo">TODO</string>
+    <string name="entrar">Entrar</string>
+</resources>
